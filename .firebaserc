@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "proyek-nusantara-autokeren"
+  },
+  "targets": {
+    "proyek-nusantara-autokeren": {
+      "hosting": {
+        "website-tentang-rasa-sedi-930656": [
+          "website-tentang-rasa-sedi-930656"
+        ]
+      }
+    }
+  }
+}
